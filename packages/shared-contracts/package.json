@@ -14,7 +14,7 @@
     "@openzeppelin/contracts-ethereum-package": "2.2.3"
   },
   "devDependencies": {
-    "solc": "0.5.11",
+    "solc": "0.5.13",
     "solhint": "^2.1.2",
     "truffle": "5.0.37"
   },
